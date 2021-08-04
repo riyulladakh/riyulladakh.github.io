@@ -1,0 +1,863 @@
+
+@media screen and (max-width:1508px) {
+.award .slides li figcaption { bottom:4%; }
+}
+@media screen and (max-width:1199px) {
+    .bird-fest-block{bottom: -99px; left:100%; margin-left: -235px;}
+}
+
+@media screen and (max-width:1023px) and (min-width:768px){
+.item { width:16.6% !important;}
+.item.w2 { width:33.3% !important; }
+}
+
+@media screen and (max-width: 991px){
+.bird-fest-block{margin-left: -234px;max-width: 200px;}
+.camps-header.dudhwa .nav > li + li { margin-left: 0px;}
+.img-mobile{display: block;}
+.img-desktop{display: none;}
+    .add-ons > .img{width:200px}
+    .add-ons > .price{display: block; width:100%; background:#f1f1f1; padding:10px; margin-top:10px}
+    
+/*26-12-2018 */
+.dudhwa .dining-box{ background: none; padding-top:20px; }
+/*26-12-2018 */
+    
+.gd-logo ul li {padding: 0 15px;}
+}
+
+@media screen and (min-width: 992px){
+.ttl-wicon .icon-tutc{right:0px}	
+}
+@media screen and (min-width: 992px){
+.desktopnav { display:block !important; }
+.mobile-nav { display:none !important; }
+.flex-direction-nav {max-width: 940px;left: 50%;margin-left: -470px;}
+header{position:fixed; z-index: 1000;}
+.wrapper{padding-top:115px}
+.press-list ul li{width:46.5%; float:left; clear:none/*after removing the masonary*/}
+
+}
+
+
+
+@media screen and (min-width: 960px){
+.logo-panel {min-height: 85px;}
+}
+
+@media screen and (min-width:768px) {
+.equal-heights > div.footer-links { height:auto !important; }
+
+.mobile-purpose { display: none; }
+.desktop-purpose { display: block; }
+    
+    .img-mobile{display: none;}
+.img-desktop{display: block;}
+}
+
+@media screen and (max-width: 1380px){
+.home .flexslider .flex-control-nav { bottom:4%; }
+.home .flexslider .slides > li  { overflow:hidden; }
+.home .flexslider .slides li figure  { min-height:550px; }
+.home .flexslider .slides li figure > img { position:absolute; max-width:none; width:auto; margin-left:-850px; left:50%;  min-height:100%; }
+.award #main-banner.flexslider .flex-control-nav { bottom:4%; }
+.award #main-banner.flexslider .slides li figure  { min-height:550px; }
+.award #main-banner.flexslider .slides li figure > img { position:absolute; max-width:none; width:auto; margin-left:-50%; left:50%;  min-height:100%; }
+.award .slides li figcaption { bottom:2%; }
+.award .slides li figcaption h4 {font-size: 2.5em;}
+.award .slides li figcaption h3 { font-size:3em; }
+.award .slides li figcaption h5 { font-size:1.75em; }
+.award .slides li figcaption .btn-primary { margin-right:4%; }
+.award .slides li figcaption .img-con { max-width: 28%; }
+}
+/*24-11-2015 */
+@media screen and (max-width: 1024px){ 
+
+    .weather-information-hornbill .weather-sec { left: 2%; margin-left:0px }
+
+	/*9-12-2015*/
+	.list-type-03 { margin-left: 0; margin-right: 0; }
+	.list-type-03 li figure { width: 29%; }
+	.list-type-03 li .content { margin-left: 10px; }
+	
+	
+	/* 10-08-16 */
+.custom-options .container > span { right: 33px; }
+/* 10-08-16 */
+ }
+ 
+@media screen and (max-width: 991px){
+.small-title small {font-size: 1.5em;}
+.small-title i.fa-rupee {font-size: 19px;}
+    
+/* 11-Apr-2017 */
+.press-list ul li{width: 100%; margin: 0px;} 
+.press-list ul li + li {margin: 10px 0px 0px 0px;}
+.press-list1 ul li{ width:29% !important; height:365px !important}
+.press-list1 .news-content h2 { height:65px !important;}
+/* 11-Apr-2017 */
+
+.footer-links.partnr-logo{display:block;width:100%;padding-top: 0px;}
+.footer-links.partnr-logo img{width:100px}
+.ttl-wicon .icon-tutc{right:0px}
+.footer-links{padding: 27px 16px 14px;}
+.footer-links + .footer-links{margin:0px !important}
+.desktopnav { display:none !important; }
+	.book-widget {margin-left:120px}
+.book-widget .boxIn { box-shadow: 0 2px 2px #666}
+.flexslider .flex-control-nav {margin-left: 160px}
+.home .slides li figcaption .btn-primary { margin-right:4%; }
+.home .slides li figcaption .img-con { max-width: 28%; }
+.nav-tl {margin: 0 0 5px;}
+nav ul ul.dropdown-menu li .camps-nav-list { padding-bottom:10px} 
+nav ul ul.dropdown-menu li .camps-nav-list a {min-width:140px; margin: 0}
+.item { width:25% !important;}
+.item.w2 { width:50% !important; }
+.carousel.th-gallery .flex-direction-nav { left: 0; }
+.testimonials ul li{ padding:24px 30px;}
+.testimonials .bootstrap-select .dropdown-menu li { padding:inherit;}
+.about-info > .about-info-box { margin-bottom:10px;}
+.caption img { max-width:100%; height:90%}
+.camp .img-container{width:18%; float:left}
+.camp .content{width: 82%}
+.camp .content{padding: 0 20px;}
+.filter-by-sec .sec-in { padding: 14px 6px 0px 91px; }
+.filter-by-sec .inline-block { width:48%; } 
+.filter-by-sec .inline-block  { margin:0px 2% 15px 0; min-height:45px; }
+.filter-by-sec .inline-block + .inline-block { margin:0px 2% 15px 0; }
+.filter-by-sec .inline-block label { width:40%; }
+.cal-rt > .col-sm-6 { padding-right: 20px; width: 100%;}
+.cal-rt > .col-sm-6 + .col-sm-6 { width: 100%; margin-top:20px;}
+.cal-rt > .col-sm-6 + .col-sm-6 img { width:100%}
+.calendar-wrapper .th-img-container { min-height:240px;}
+.press-bx ul li  div > h3{font-size:1.5em;}
+.container-type2 ul.temp-time{width:100%; overflow:hidden}
+.container-type1 .img-container{width:35%}
+.container-type1 .content{width:65%}
+.container-type2 ul.temp-time li{width:50%; float:left; overflow:hidden}
+.rcb-form {width:100%;}
+.equal-heights > div > div.row { margin:0; background:none; }
+.equal-heights > div > div.row > [class^="col"] { padding:0; }
+.footer-links { margin:0 !important; display:table-cell; float:none; padding:27px 18px 14px; vertical-align: top;}
+.footer-links + .footer-links  { margin:0 0 0 0 !important; }
+.about-info > .about-info-box { margin-bottom:40px;}
+.about-info > .about-info-box + .about-info-box { padding-top:0px;}
+.welcome-txt {margin-bottom: 60px;}
+.welcome-txt.option2 {width: 100%}
+.camps-box-wrapepr.option2{display: block; text-align: center}
+    
+.camps-header .top-sub-nav-list > li {max-width: 50%; display: block; float: right; }
+.camps-header .top-sub-nav-list > li:before{display: none}
+.mob-list-sap, .top-sub-nav-list > li.mob-list-sap{display: block; width:100%; margin-bottom: 7px; max-width: 100%}
+.top-sub-nav-list .styled-select .btn-group .btn span{width:99%; overflow: hidden}
+    
+.weather-sec {}
+.row-style.count-four li { width:33.33%; }
+.detail-opts{ max-width: 33.33%;}
+.tab-horizontal.r-tabs .r-tabs-nav { display:table; width:100%; padding:0 1px; }
+.tab-horizontal.r-tabs .r-tabs-nav .r-tabs-tab { display:table-cell; float:none; }
+.tab-horizontal.r-tabs .r-tabs-nav .r-tabs-anchor { padding:2px 3px; font-size:0.85em; text-align:center; }
+#gallery { min-height:367px; padding:5px;}
+#GalImages, #GalThumbs { height:367px;  }
+.caroufredsel_wrapper { width:592px;}
+#GalImages li{ width:592px !important; height:357px !important; }
+#GalImages li figcaption {  font-size:20px; padding:10px 14px; }
+#GalImages li figcaption span { font-size:12px; line-height:16px; }
+.thcontainer { position:absolute; top:21px; bottom:21px; right:5px; max-width:124px;}
+#prev, #next {width: 124px; height: 17px; right: 5px; line-height:17px; font-size:17px;}
+#prev:before, #next:before { margin:0 0 0 -8px; width:17px; height: 17px; line-height:17px; font-size:17px;}
+#prev-main, #next-main { width:42px; height:48px; margin-top:-24px; }
+#prev-main:before, #next-main:before { margin:-21px 0 0 -21px; width:42px; height: 42px; line-height:42px; font-size:42px;}
+#prev-main { left:0px; }
+#next-main { right:132px;}
+.camp.camp-info-box .img-container,
+.camp.camp-info-box .content { width:50%; }
+.experiences .camp .img-container {float: left;height: auto;width: 50%;}		
+.experiences .camp .content {float: left;padding-bottom: 5px;padding-left: 20px;padding-top: 1px;width: 50%;}
+.itinerary .row-style li .price:before {padding-left:0px;}
+.itinerary .row-style li:first-child + li { border-right:1px solid #dbd6d4;padding: 0px 0px; }
+.itinerary .row-style li:first-child {padding-right: 0;}
+.rates-tbl .common-tbl-row .common-tbl-column:first-child{ text-align: left; width:44.2%;}
+.table-display.rates > li.ttl > div.pack-name, .table-display.rates > li > div.pack-name  {max-width: 42.2%;min-width: 42.2%;}
+.table-display.rates > li.ttl > div.pack-days, .table-display.rates > li > div.pack-days {max-width: 28.7%;text-align: center;min-width: 28.7%;}
+.table-display.rates > li.ttl > div.pack-book, .table-display.rates > li > div.pack-book {max-width: 28.8%;min-width: 28.8;text-align: center;}
+nav ul ul.dropdown-menu li .camps-nav-list.itinerary-nav-list { width:100%; }
+nav ul ul.dropdown-menu li .camps-nav-list.itinerary-nav-list a { width:25%; }
+nav ul ul.dropdown-menu li .camps-nav-list.itinerary-nav-list a > img { width:100%; }
+
+.filter-typ-center.filter-by-sec .inline-block { min-height:inherit; margin:0; }
+.filter-typ-center.filter-by-sec .inline-block label { width:auto; }
+
+/*24-11-2015*/
+.hornbill-itinerary .itinerary-container ul.itinerary li { padding-right: 120px;}
+.day-list .hornbill-itinerary > li { padding-left: 207px; }
+.day-list .hornbill-itinerary > li > .img-cont { width: 32%; float: left; margin: 0 25px 0 -190px; }
+.weather-information-hornbill .weather-sec { left: 0; }
+.weather-information-hornbill .weather-sec .table { overflow: scroll; }
+
+.th-img-container figure{ min-height:220px;}
+
+.about-info > .about-info-box .equal-heights > div{ margin:0}
+
+.accommodation  .th-img-container{ height:250px; display:block}
+
+/*09-12-2015*/
+.list-type-03 { margin-left: 0; margin-right: 0; }
+.list-type-03 li {  margin: 0 16px 2em; }
+
+.list-type-03 li figure { width: 29%;}
+.list-type-03 li .content { margin-left: 10px;}
+
+
+/* 10-08-16 */
+.flexslider.full-banner figcaption { min-height: 10px; margin-bottom: 50px !important; }
+.flexslider.full-banner figcaption h4,
+.inner.flexslider.full-banner figcaption h4 { font-size: 1.8em; }
+.flexslider.full-banner figcaption span,
+.inner.flexslider.full-banner figcaption .small-title > span { font-size: 1.3em; }
+/* 10-08-16 */
+	
+.booking-container .total-price {
+    background: none;
+    padding: 10px 0 !important;
+    margin-bottom: 7px;
+}
+	
+.booking-container .equal-heights > div > div.row {
+    margin: 0;
+    background: none;
+}	
+	
+}
+
+@media screen and (max-width:991px) and (min-width:768px) {
+.radio-list li .radio { padding:6px 3px; padding-left:27px;}
+.radio-list li .radio > span.pack-name { width: 140px; font-size: 11px; }
+.radio-list li .radio > span.price-name { width: 70px; font-size: 12px; }
+.radio-list li .radio > span.book-now { width: 76px; font-size: 9px;}
+}
+
+@media screen and (max-width:991px) and (min-width:701px) {
+.camp-info-box .white-box .wrap { padding-left:0; }
+.camp-info-box .white-box .wrap > .img-cont { margin: 0 auto 10px; float:none; display:block; }
+}
+
+@media screen and (max-width: 991px) and (min-width:600px){
+.itinerary .row-style li:first-child { width:100%; font-size:20px; padding-left:0; padding-right:0px; color:#353535; text-align:center;border-bottom:1px solid #dbd6d4; padding-bottom:10px; margin-bottom:10px;}
+.itinerary .row-style li { font-size:13px; width:50%;padding: 0px 0px; line-height:17px; color:#000000; display:inline-block;text-align:center;}
+.itinerary .row-style li.suite-type { border-left:none;border-right:1px solid #dbd6d4;padding: 0px 0px; }
+.itinerary .row-style li:first-child + li { border-left:0;}
+
+}
+
+@media screen and (max-width:970px) {
+.header.camps-header .logo figure {width: 100px;position: relative;float: left;margin: -13px 10px 0 10px;padding: 0;left: 0;}
+.header.camps-header .logo {padding-left: 0;}
+.header.camps-header .search-list { margin:5px 10px}
+.award-placeholder small br{ display:none}
+.header.camps-header .container > div.logo {width:50%}
+}
+
+@media screen and (max-width: 767px) {
+	
+/* 11-Apr-2017 */
+.press-list1 ul li {width: 35% !important; height: 315px !important;}
+/* 11-Apr-2017 */
+
+/* 04-jul-2018 */
+.img-desc{ display: none;}
+    nav ul li.camps-nav, nav ul li.itinerary-nav .menu-list{width: 97%;}
+/* 04-jul-2018 */
+
+
+.footer-links.partnr-logo img{margin-top:0px}
+.welcome-txt p + p + p {margin-right:100px;}
+.thumb-links .thumb{margin-bottom:15px}
+.container{padding-left:30px; padding-right: 30px}
+.header .container{padding-left:15px; padding-right:15px}
+.book-widget {left:auto; margin-left: 0; right:30px; top:10px}
+.home .flexslider .slides li figure { min-height:460px; }
+.home .flexslider .slides li figure > img {   }
+.flexslider .flex-control-nav {left:0; width:100%; right:0; margin-left: 0; text-align: center}
+.flex-control-paging li a {width:18px; height: 18px}
+.flexslider figcaption {bottom: 4%; padding:0 45px;}
+.flexslider .flex-control-nav {bottom:2%; }
+.flexslider figcaption h4 {font-size: 2.5em;}
+.home .slides li figcaption h3 { font-size:3em; }
+.home .slides li figcaption h5 { font-size:1.75em; }
+.home .slides li figcaption .btn-primary { margin-right:4%; }
+.home .slides li figcaption .img-con { max-width: 28%; }
+h1.title, .camps-box h3, .testimonial-box h3 {font-size:2em; margin-bottom:0.5em;}
+h2 {font-size:1.5em; margin-bottom:0.5em }
+ul.dropdown-menu .img-desc {display: none} 
+.nav [class^="col"] {width:100% !important; padding-left: 10px; padding-right: 10px}
+nav ul ul.dropdown-menu li .camps-nav-list a {display: block}
+nav ul ul.dropdown-menu li .camps-nav-list a > button,
+nav ul ul.dropdown-menu li .camps-nav-list a .btn-primary{display: none !important}
+.nav-divider-lt {border-width:0}
+.item.w2 { width:49% !important; }
+.caption img { max-width:100%; width:100%; height:auto}
+.testimonials ul li{ padding:20px 15px;}
+.testimonials .quote-name, .testimonials .quote-footer{/*font-size:1.3em;*/}
+.testimonials  h3 {font-size:1.5em!important; margin-bottom:0.5em!important; }
+.testimonials h3:before{ margin-left:-30px; top:-17px;}
+.brochure-list.first {margin-top:15px;}
+.brochure-list { margin-top:20px;}
+.btn-view-brochure{ font-size:11px; padding:6px 10px!important;}
+.brochure-box .content-heading{ font-size:1.4em;}
+.row-style.count-three li, .th-gallery.sm .row-style.count-four li { width: 50%; }
+.about-info-box .img-responsive { width: 100%; height: auto;}
+.camp .img-container{width:24%; float:left}
+.camp .content{width: 76%}
+.camp {margin-bottom: 12px}
+.camp .content .heading strong{margin-top:30px}
+.image-block a.text-link{font-size:22px}
+.thumb-links-type2 .thumb{margin-top:20px}
+.thumb-links-type2 .thumb:first{margin-top:0px}
+.col-xs600-6{width:50%; float:left}
+.brochure-box .img-container img{ width:100%;}
+.brochure-box .content, .brochure-box .img-container {float: none; padding-left:0px; width:100%;}
+.tiled-container {display: none}
+.accommodation .row-lg.row-grid  > [class^="col"].col-xs-6.col-mob-12 { padding-top:0px; }
+.accommodation .row-lg.row-grid .image-block { margin-top:0; }
+.accommodation .row-lg.row-grid:last-child  { margin-bottom:60px; }
+.accommodation .row-lg.row-grid:last-child > [class^="col"].col-xs-6.col-mob-12 { padding-top:0px; margin-bottom:34px; }
+.filter-by-sec .sec-in { padding: 14px 6px 12px 91px; }
+.filter-by-sec .inline-block { width:100%; margin:0px 0% 0px 0;  }
+.filter-by-sec .inline-block + .inline-block { margin:15px 0% 0px 0; }
+.filter-by-sec .inline-block label { width:40%; }
+#hrzTabs.r-tabs .r-tabs-nav { display: none; }
+#hrzTabs.r-tabs .r-tabs-accordion-title {display: block; }
+#hrzTabs #tabs { display:block; list-style:none; padding:0; margin:0}
+.footer-bot {background-position:center 8px; padding:44px 0 16px 0; text-align:center; }
+.footer-bot .copyright { padding:6px 0 0; display:block; }
+.foot-sub-nav > a { padding:0px 0px 0 6px; margin:0px; }
+.foot-sub-nav > a + a:before { left:0; }
+.filter-by-sec .inline-block { width:100%; }
+.filter-by-sec .inline-block + .inline-block { margin:10px 0 0 0; } 
+.filter-typ-center { text-align:left; }
+.filter-typ-center.filter-by-sec .sec-in { padding-left: 91px; }
+.filter-typ-center.filter-by-sec .sec-in .tl {  margin-left: -71px; float: left; }
+/*.filter-typ-center.filter-by-sec .inline-block{ float:none; display:table; } */
+nav ul ul.dropdown-menu li .camps-nav-list a { display:inline-block; float:none; clear:left; background:none !important; padding:0 !important; height: 100px; margin-right: 10px; min-width: 115px}
+nav ul ul.dropdown-menu li .camps-nav-list a > img{height: 100px}
+.dest-name { display:inline-block; background:none !important; }
+.container-type2 ul.temp-time{width:70%}
+.camp-title.type2{padding-right:60px}
+.camp-title.type2 h1{font-size:35px}
+.gap-xs{margin-top:20px}
+.camp-itinerary ul.itinerary-day li{width: 100%}
+.sm-right{float:left}
+.footer .equal-heights { }
+.footer-links { display:inline-block; width:50%; margin:0 !important; float:left;}
+.footer-links + .footer-links  { }
+.title > .title { clear:both; margin-right:0; }
+    
+.header.camps-header .container > div {max-width: 50% !important}
+ .header.camps-header .container > div.logo {max-width: 50% !important}
+header .styled-select .btn-group .dropdown-menu {    right: 0; left: inherit;}
+    
+.home .flexslider .slides li figure > img { margin-left:-50%; }   
+.weather-sec { }
+.row-style.count-four li { width:50%; }
+.sidebox .btn { max-width:270px; margin-left:auto; margin-right:auto; }
+.day-list li { padding:15px; }
+.day-list li > .img-cont { margin:0px 25px 20px -0px; }
+.experience-box > [class^="col"] { height:auto !important; } 
+.experience-box .img-right { float:none; }
+.experience-box + .experience-box { margin-top:40px; }
+#gallery { min-height:221px; max-width:420px;}
+#GalImages, #GalThumbs { height:221px;  }
+.caroufredsel_wrapper { width:333px;}
+#GalImages li{ width:333px !important; height:211px !important; }
+#GalImages li figcaption {  font-size:13px; padding:5px; }
+#GalImages li figcaption span { font-size:10px; line-height:16px; }
+.thcontainer { position:absolute; top:12px; bottom:12px; max-width:72px;}
+#prev, #next {width:72px; height: 10px; line-height:10px; font-size:10px; }
+#prev:before, #next:before { margin:0 0 0 -5px; width:10px; height: 10px; line-height:10px; font-size:10px;}
+#prev-main, #next-main { width:24px; height:26px; margin-top:-13px; }
+#prev-main:before, #next-main:before { margin:-12px 0 0 -12px; width:24px; height: 24px; line-height:24px; font-size:14px;}
+#prev-main { left:0px; }
+#next-main { right:80px;}
+#vertTabs.r-tabs .r-tabs-nav { display: none; }
+#vertTabs.r-tabs .r-tabs-accordion-title {display: block; }
+.tab-vertical .resp-tabs-container { margin-left:0; }
+.table-display.rates > li.ttl > div.pack-name, .table-display.rates > li > div.pack-name  {max-width: 42.2%;min-width: 42.2%;}
+.table-display.rates > li.ttl > div.pack-days, .table-display.rates > li > div.pack-days {max-width: 28.7%;text-align: center;min-width: 28.7%;}
+.table-display.rates > li.ttl > div.pack-book, .table-display.rates > li > div.pack-book {max-width: 28.8%;min-width: 28.8;text-align: center;}
+.rates-tbl .common-tbl-row .common-tbl-column { min-height:50px; line-height:20px}
+.rates-tbl .common-tbl-row .common-tbl-column:before { line-height:18px; padding-top:10px;}
+.common-tbl, 
+.common-tbl-row, 
+.common-tbl-column, 
+.common-tbl-column:before{ display:inline-block; width:100%;}
+.common-tbl, 
+.common-tbl-row .common-tbl-column:last-child{ border-bottom:none; }
+.common-tbl-head { position:absolute; top:-1000em; left:-1000em; }
+.common-tbl-row { border:1px solid #dddddd; margin:20px 0; display:inline-block; width:100%; padding:2px 0 0 0;}
+.common-tbl-head .common-tbl-column { border:0; }
+.common-tbl-row .common-tbl-column:nth-child(1){ border-left:none; }
+.common-tbl-row .common-tbl-column:last-child{ border-right:none; }
+.common-tbl-column { padding-left:175px; border:0; border-bottom:1px solid #eeeeee; float: left; text-align:left;}
+.common-tbl-column:before{ content:" "attr(data-label)" : "; font-family:'Open Sans',Arial,Helvetica,sans-serif; font-weight:600; background:#eeebe5; color:#3f3f3f; padding:4px; margin:-4px 15px -0px -4px;  font-size:12px; padding-bottom:2px;  display:inline-block; max-width:170px; border-right:0; position:absolute; left:4px; top:3px; bottom:1px; text-align:left; line-height:26px;}
+.rates-tbl .common-tbl-row .common-tbl-column { text-align:left !important; }
+.rates-tbl .common-tbl-row .common-tbl-column:first-child:before { left:5px; }
+.rates-tbl .common-tbl-row .common-tbl-column:first-child {text-align: left;width: 100%;}
+.common-tbl-column:before { max-width:190px;}
+.common-tbl-column {padding-left: 200px;}
+nav ul ul.dropdown-menu li .camps-nav-list.itinerary-nav-list { width:100%; }
+nav ul ul.dropdown-menu li .camps-nav-list.itinerary-nav-list a { width:auto; display:inline-block; clear: left; float: left; margin: 6px 4px 6px 0px !important; padding: 0px 0px 0px 15px !important; text-decoration: none; color: #000; font-size: 12px; font-family: "TrajanProBold",Arial; position: relative;}
+nav ul ul.dropdown-menu li .camps-nav-list.itinerary-nav-list a:before { content:'\f054'; display:inline-block; float:left; font-size: 0.8em; margin-left: -15px; position: absolute; top: 2px; font-family: FontAwesome; }
+.testimonial-filter{ margin-top:0px; float: left !important; padding-left: 85px;}
+.testimonial-filter .filter-typ-center.filter-by-sec .inline-block,
+.filter-typ-center.filter-by-sec .inline-block {width:auto; }
+.filter-typ-center.filter-by-sec .sec-in { display:block; }
+.filter-typ-center.filter-by-sec .inline-block { width:100%; }
+.filter-typ-center.filter-by-sec .inline-block + .inline-block { padding-top:10px; }
+.filter-typ-center.filter-by-sec .inline-block label { min-width:100px; text-align:left; }
+.filter-typ-center.filter-by-sec .inline-block .styled-select { min-width:100%; }
+.gal-popup a.text-link > figure{ position:relative}
+.caption .read-more{ position:relativee}
+ .award-placeholder,.award-list,.award-descr{ height:auto !important}
+ .award-descr{ clear:both}
+ .highlights{ width:100%; float:none}
+ .award-list{ background:#fff}
+ ul.bullet-list.type2 li{ width:100%; float:none}
+ 
+ 
+/*.rates-table { border:0}
+.rates-table .table { border:0} 
+.rates-table .rte-tbl-cont  tr.table-inner-title.table-inner-presidential{ margin-bottom:10px}
+.rates-table .rte-tbl-cont  tr.table-inner-title  td.suit-typ{ display:block; width:100%; text-align:left font-size:16px; padding-left:8px; background:#5c483e; color:#fff}
+.rates-table .rte-tbl-cont  tr.table-inner-title  td.suit-typ:before{ display:none;}
+.rates-table .rte-tbl-cont  tr.table-inner-title  td.hide-td{ display:none}
+.rates-table  tr td.occ-title{ display:block}
+.rates-table  .rte-tbl-cont tr td{ display:block; width:100%; position:relative}
+.rates-table .rte-tbl-cont tr td:before {background: #5a1412;border-right: 0 none;bottom: 1px;color: #3f3f3f;content: " " attr(data-label) " : ";display: inline-block;font-size: 14px;font-weight: 600;left: 4px;line-height: 26px;margin: -4px 15px 0 -4px;max-width: 150px;padding: 4px 10px 2px;position: absolute;text-align: left;top: 3px; width:100%; background:#5a1412 ; color:#fff;font-family: "Thonburi"; text-transform:none}
+.rates-table .rte-tbl-cont tr td{ padding-left:160px}
+.rates-table  .rte-tbl-cont  tr.table-head{ display:none}
+.rates-table  .rte-tbl-cont tr{ background:#fff ; display:block; margin-bottom:10px;}
+.table{ margin-bottom:0}
+.rates-table table.rte-tbl-cont{ margin-bottom:20px;}
+.rte-tbl-diskit tr td.last{ text-align:left}
+.rates-table .rte-tbl-cont tr.table-inner-title td.suit-typ{ text-align:center}
+.rates-table .rte-tbl-cont tr.table-inner-title{ margin-bottom:0}
+.rates-table tr.table-inner-divider td{ border-width:1px;}*/
+.home .flexslider-main .slides li figcaption{ padding:0}
+
+.home .slides li figcaption{ bottom:50px;}
+
+/*24-11-2015*/
+
+.day-list .hornbill-itinerary li > .img-cont { margin: 0 10px 15px -190px !important; width: 170px; }
+.day-list .hornbill-itinerary li .itinerary-container + .itinerary-container { float: right; margin-top: 20px; }
+.hornbill-itinerary .itinerary-container .highlights { margin-left: 0; width: auto; margin-bottom: 0; }
+.hornbill-itinerary .itinerary-container { padding: 0; float: right; width:100%; }
+.hornbill-itinerary .itinerary-container ul.itinerary { margin-top: 15px; }
+.weather-information-hornbill .weather-sec .table { overflow: scroll; }
+.kohima-header.header.camps-header nav ul .itinerary-nav ul.dropdown-menu li .camps-nav-list a{ width:100%; text-align:left}
+
+/*9-12-2015*/
+
+.list-type-03 li { width: 100%; margin: 0 0 2em; }
+
+/*30-12-2015*/
+
+.press-table.rates-table .rte-tbl-cont tr td::before{ font-size:12px; line-height:16px; max-width:155px; content:" " attr(data-label) "  "}
+.press-table.rates-table .rte-tbl-cont tr td{ height:60px;}
+.press-table.rates-table .rte-tbl-cont thead{ display:none}
+.press-table.rates-table .rte-tbl-cont tbody{ display:block; width:100%}
+/*30-12-2015*/
+
+
+
+/*30may2016*/
+.tab-verticals.r-tabs .r-tabs-accordion-title .r-tabs-anchor { background:#FFF; color:#5a1412;}
+.tab-verticals.r-tabs .r-tabs-accordion-title.r-tabs-state-active .r-tabs-anchor {background-color: #5a1412; color:#fff;text-shadow: none;}
+/*30may2016*/
+
+.camps-box-wrapepr .dest-name { display: none; }
+
+/* 10-08-16 */
+.ttl-wicon { padding-left: 10px; }
+.new-landing-template .ttl-wicon .sub-title { text-align: left; }
+.new-landing-template .highlights-container { margin-top: 25px; }
+/* 10-08-16 */
+
+/*24Jan2017 css start*/
+.other-logo {
+    background-color: #000;
+}
+.footer-links.other-logo{ background:#000 !important;}
+.footer-links.other-logo > img{ margin:-6px 0 6px; background:#FF0000;}
+/*24Jan2017 css start*/
+.booking-container .total-price { background: #efefef}
+    
+}
+
+
+@media screen and (max-width:767px) and (min-width:600px) {
+.radio-list li .radio { padding:6px 3px; padding-left:27px;}
+.radio-list li .radio > span.pack-name { width: 140px; font-size: 11px; }
+.radio-list li .radio > span.price-name { width: 50%; font-size: 12px; text-align:left;}
+.radio-list li .radio > span.book-now { width: 50%; font-size: 9px;}
+
+}
+
+@media screen and (max-width:700px) {
+.header.camps-header .search-list {padding: 0}
+/*.camps-header .top-sub-nav-list > li {max-width: 45%; float: right; margin-bottom: 8px}
+.camps-header .top-sub-nav-list > li:first-child{width:45%; max-width:45%}
+.header.camps-header .container > div {max-width: 50% !important}
+.camps-header .top-sub-nav-list > li:before{display: none}*/
+.camp.camp-info-box .img-container,
+.camp.camp-info-box .content { width:100%; height:auto !important;}
+.camp.camp-info-box .img-container { padding:0 !important; }
+.camp.camp-info-box .img-container figure { height:200px;}
+.camp-info-box .white-box { padding:10px 0; }
+/*.filter-typ-center.filter-by-sec .inline-block { width:100%; }
+.filter-typ-center.filter-by-sec .inline-block + .inline-block { padding-top:10px; }
+.filter-typ-center.filter-by-sec .inline-block label { min-width:100px; text-align:left; }
+.filter-typ-center.filter-by-sec .inline-block .styled-select { min-width:100%; }
+*/}
+
+@media screen and (max-width: 599px) {
+.calendar-wrapper label.date-lbl{display: none}
+.col-tab-12 { width:100%; }
+#main-banner .flex-viewport .slides img { min-width: 550px;}
+nav ul li.about-nav ul.dropdown-menu, 
+nav ul li.camps-nav ul.dropdown-menu, 
+nav ul li.accommodation-nav ul.dropdown-menu {min-width:100%}
+.filter-by-sec .inline-block { max-width: none;  }
+.filter-by-sec .inline-block + .inline-block { margin: 10px 0 0 0; }
+.filter-by-sec .inline-block label { width: 45%; margin-right: 5%;}
+.filter-by-sec .inline-block .styled-select { max-width: 60%; }
+.filter-by-sec .sec-in  { padding: 6px; }
+.filter-by-sec .tl { margin: 0; }
+.brochure-list > .brochure-box{ width:100%; padding:0 18px!important;}
+.brochure-list > .brochure-box + .brochure-box { margin-top:20px;}
+.brochure-box .img-container {float: left; width: 38%;}
+.brochure-box .content {float: left; padding-left: 20px; width: 62%;}
+.about-info > .about-info-box { width:100%;}
+.camp .content{padding: 20px}
+.camp .img-container{width:100%}
+.camp .img-container .logo{width:45%}
+.camp .img-container .image{width:55%}
+.camp .content{width: 100%}
+.camp .content .heading strong{margin-top:0px}
+.col-mob480-12{width:100%}
+.image-block{margin-top:20px}
+.image-block.first{margin-top:0px}
+.camp.images-right .img-container .logo{float:left}
+
+.filter-typ-center.filter-by-sec .sec-in { padding: 15px; }
+.filter-typ-center.filter-by-sec .sec-in .tl {  margin-left: 0px; width:100%; text-align:left; } 
+.filter-typ-center.filter-by-sec .inline-block { /*float:none; display:table; width:100%;*/ }
+.filter-typ-center.filter-by-sec .inline-block label { width:120px; padding:0 9px 0 0; margin:0; }
+
+.home .flexslider .slides li figure { min-height:400px; }
+.flexslider figcaption { padding:0 35px; }
+.flexslider figcaption h4 { font-size: 1.5em; }
+.home .slides li figcaption h3 { font-size:1.8em; } 
+.home .slides li figcaption h5 { font-size:1.2em; }
+.home .slides li figcaption .btn-primary { margin-right:4%; }
+.home .slides li figcaption .img-con { max-width: 23%; }
+.icon-thiksey{display:none}
+.camp-title.type2{padding-right:0px}
+#main-banner .flex-viewport .slides img { min-width: 100% !important;}
+.footer-links { width:100%; padding:27px 18px; }
+.footer-links + .footer-links { padding:12px 18px; }
+.about-info > .about-info-box { margin-bottom:20px;}
+.radio-inline, .checkbox-inline, 
+.radio-inline + .radio-inline, .checkbox-inline + .checkbox-inline{margin:0 10px 10px 0px;}
+  
+/*
+.camps-header .top-sub-nav-list > li, .camps-header .top-sub-nav-list > li:first-child { display: block; width:100%; max-width: 100%;}
+.camps-header .top-sub-nav-list > li + li + li{max-width: 50%; width:auto}
+.camps-header .top-sub-nav-list > li:before{display: none}
+*/
+    
+.search-box {float: right}
+.tab-horizontal .img-con.img-right { max-width:none; float:none; width:100%; margin:0 0 20px 0; }
+.tab-horizontal .btn-group .btn { padding:6px; }
+.detail-opts{ position:static; max-width:100%; clear:both;}
+.list-circle-o, .itinerary-list { margin-bottom:10px; }
+.divider { margin-bottom:29px; }
+.day-list li { padding:15px; }
+.day-list li > .img-cont { margin:0 0 15px 0;  width:100%; }
+.day-list li h4 { clear:both; }
+.award #main-banner.flexslider .slides li figure { min-height:400px; }
+.award #main-banner.flexslider figcaption { padding:0 0; }
+.award .slides li figcaption h4 { font-size: 1.5em; }
+.award .slides li figcaption h4 { font-size: 1.5em; }
+.award .slides li figcaption h3 { font-size:1.8em; } 
+.award .slides li figcaption h5 { font-size:1.2em; }
+.award .slides li figcaption .btn-primary { margin-right:4%; }
+.award .slides li figcaption .img-con { max-width: 23%; }
+.dining-info-box { width:100%; }
+.dining-info-box .equal-heights > div { margin-bottom:0; }
+.dining-info-box .equal-heights > div .img-responsive{ width:100%; }
+.dining-info-box  .dining-box { padding-bottom:15px; }
+.testimonial-filter{padding-left:0px}
+.award-img{ float:none; display:block; text-align:center}
+.award-img-descr{ text-align:center} 
+.award-img-descr br{ display:none}
+.award-placeholder{ margin-bottom:15px;}
+.press-list .press-opt > a.btn-primary +  a.btn-primary{ margin-top:10px;}
+.weather-info .row-style.count-three li{ width:100%}
+
+.figcaption-block{ padding-left:10px; padding-right:10px;}
+.flexslider-main .slides li figcaption.award-slide h3{ font-size:22px}
+.flexslider-main .slides li figcaption.award-slide .awards-img span{ width:20%;}
+.flexslider-main .slides li figcaption.award-slide .awards-img span img{ 	}
+
+
+/*24-11-2015*/
+.hornbill-itinerary .itinerary-container { width: 100%; padding: 10px; float: none;}
+.day-list .hornbill-itinerary > li { padding: 24px; }
+.day-list .hornbill-itinerary li > .img-cont { width: 100%; float: none; margin: 0 !important; }
+.day-list .hornbill-itinerary .day { margin-top: 20px; }
+.weather-information-hornbill .book-widget{left:27px}
+.weather-information-hornbill .weather-info h3{margin-top:50px}
+.weather-information-hornbill #main-banner{height:555px}
+.calendar-wrapper label.date-lbl{ padding-left:0} 
+.calendar-wrapper label{ position:relative; padding-left:125px; font-size:12px; line-height:20px;}
+.cal-rt label span{ position:absolute; left:0; font-size:12px; min-width:125px}
+
+/* 10-08-16 */
+.scroll-down > i { font-size: 50px; }
+.main-container { padding-top: 10px; }
+.ttl-wicon .icon-tutc { max-width: 30%; margin-top:0; top: 0; }
+.ttl-wicon .title { font-size: 1.7em; padding-right: 20%; }
+.new-landing-template .ttl-wicon .sub-title { font-size: 1.8em; margin-bottom: 5px; }
+.welcome-txt { margin-bottom: 20px !important; }
+
+.experiences .filter-tabs .filter-tl { position: static; display: block; float: none; margin-bottom: 10px; }
+.experiences .gal-categ > li { display: block; float: none; }
+.experiences .gal-categ > li a { display: block; }
+.experiences .gal-categ > li.active a { border-radius: 3px; padding: 5px 10px; }
+.experiences .gal-categ:before { bottom: -8px; }
+.experiences .gal-categ > li a { padding: 5px 10px; }
+.footer-links{padding-bottom: 0px}
+.footer-links + .footer-links{padding-top:12px; padding-bottom: 0px}
+.info-type1 > div, .add-ons > .img{width:100%; display: block}
+/* 10-08-16 */
+}
+
+@media screen and (max-width:480px) {
+.header.camps-header .logo {font-size: 11px; padding:18px 8px 0; text-align: center}
+.header.camps-header .logo a div {display: none}
+.header.camps-header .tutc-logo {max-width:75%}
+.header.camps-header .logo figure {width: 100px; margin: -13px auto 0;float: none;}
+.home .flexslider .slides li figure { min-height:350px; }
+.camps-header .top-sub-nav-list > li {max-width: 80%}
+
+/*24-11-2015*/
+.hornbill-itinerary .itinerary-container ul.itinerary li .time { width: 100px; }
+.hornbill-itinerary .itinerary-container ul.itinerary li { padding-right: 100px; }
+.book-list > li {padding: 7px 7px 7px 105px;}
+.book-list .book-img{max-width: 90px; left:7px; top:7px}
+    
+}
+
+@media screen and (max-width: 479px){
+    
+.flexslider.full-banner figcaption .flex-caption.flex-caption-bgcolor > p{ font-size: 14px;}
+.flexslider.full-banner figcaption .flex-caption.flex-caption-bgcolor h4{ font-size: 34px!important}
+.flexslider .slides figcaption .container{width:100%}
+.custom-options .container > span > span.owlItems {display: none;}
+    
+.flexslider.full-banner figcaption h4.special-shadow{ font-size:28px !important;}
+.small-title small{font-size: 1.2em; !important}
+.small-title i.fa-rupee { font-size: 16px;}
+
+/* 11-Apr-2017 */
+    .press-list1 ul li {width: 100% !important; height: 480px !important;}
+/* 11-Apr-2017 */
+
+.thumb-links { margin:20px -3px}
+.highlights ul li ol li, 
+.thumb-links .thumb { width: 100%}
+.search-list { padding:8px 0px 0;}
+.testimonials ul li { padding:20px 10px;}
+.brochure-box .content { padding-left: 13px; width: 62%;}
+.brochure-box .img-container { width: 38%;}
+.contact-form .form-group label.control-label, 
+.contact-form .form-group .form-rt, 
+.contact-form .radio-group, 
+.contact-form .radio-label { display:block; width:100%; text-align:left; padding:3px 0; } 
+.btn-submit .form-rt { text-align: center!important;}
+.contact-form .form-group { margin-bottom:15px;}
+.contact-form .with-border{ margin:0;}
+.mandatory-fields { margin-bottom:10px;}
+.contact-form .form-group .with-border label.control-label { display:none;}
+.row-style.count-three li, 
+.th-gallery.sm .row-style.count-four li { width: 100%; }
+.filter-by-sec .sec-in { padding: 6px; }
+.filter-by-sec .tl { margin: 0; }
+.mobile12, .col-mob-12 { width:100%}
+.accommodation .row-lg.row-grid:last-child > [class^="col"].col-xs-6.col-mob-12, .accommodation .row-lg.row-grid > [class^="col"] { padding-top:0px; margin-bottom:34px; }
+.calendar-wrapper label { min-width:200px; float:none;}
+.calendar-wrapper .cal-rt {margin-left:-10px; background:#fff; }
+.footer-links li, .connect li { display:block; text-align:center; }
+.footer-links li:after { display:none !important; }
+.connect li + li { margin-top:5px; }
+.connect li:before { margin: 0px 5px 0px 0; }
+.connect { padding:12px 0; margin:0; border-top: 1px solid #D6CCC2; }
+.container-type1 .img-container{width:100%}
+.container-type1 .content{width:100%; padding-left:0px}
+.container-type2 .content-heading a{display:block; width:100%}
+.container-type2 ul.temp-time{width:100%}
+.container-type2 ul.temp-time li{padding:0 0 0 5px}
+.container-type2 ul.temp-time li:first-child{padding-left:0px}
+.mobile-12{width:100%}
+.rcb-wrapper{padding: 25px 18px}
+.cal-rt a.btn-primary { width:46%; padding-left:5px; padding-right:5px; text-align:center; }
+.default-form.md { padding:12px 20px; }
+.default-form .form-group { margin-bottom:10px; }
+.default-form .form-group label.control-label { display:block; padding:0 15px; }
+.default-form .form-group .form-rt { display:block; width:100%; padding:0 15px; } 
+.default-form.md .mandatory-fields { margin: 20px 0 0 0; }
+.default-form.md .pop-tl { font-size:1.4em; line-height:1.4em;  }
+.default-form.md h1 b { font-size:1.4em; line-height:1em; }
+.default-form.md .pop-tl small{ font-size:0.85em; line-height:0.85em; }
+.default-form.md p { font-size:1em; line-height:1em; }
+.itineary-box .btn-primary{ padding:6px 18px;}
+.row-style.count-four li { width:100%; }
+.tab-horizontal .btn-group { width:100%; }
+.sidebox:first-child { margin-top:15px; }
+.detail-opts{ padding-bottom:0;}
+.tab-horizontal .btn-group .btn,
+.tab-horizontal .btn-group .btn + .btn { max-width:270px; margin:0 auto; width:100%; float:none; display:block;}
+.tab-horizontal .btn-group .btn + .btn { margin-top:10px; }
+.list-circle-o, .itinerary-list { margin-bottom:0px; }
+.divider { margin-bottom:19px; }
+#gallery { min-height:156px; max-width:260px;}
+#GalImages, #GalThumbs { height:156px;  }
+.caroufredsel_wrapper { width:250px;}
+#GalImages li{ width:250px !important; height:146px !important; }
+#GalImages li figcaption { font-size:12px; padding:2px 5px 5px; }
+#GalImages li figcaption span { font-size:9px; line-height:12px; }
+.thcontainer, #prev, #next { display:none !important;}
+#prev-main, #next-main { width:24px; height:26px; margin-top:-13px; }
+#prev-main:before, #next-main:before { margin:-12px 0 0 -12px; width:24px; height: 24px; line-height:24px; font-size:14px;}
+#prev-main { left:0px; }
+#next-main { right:0px;}
+.tab-vertical .r-tabs-panel .ques-ans-list li { padding-left:0; }
+.tab-vertical .r-tabs-panel .ques-ans-list li .tl { margin-left:0; display:block; float:none; }
+.camp-info-box .white-box { padding: 10px 0px; } 
+.camp-info-box .content .white-box .heading { font-size:18px; }
+.camp-info-box .white-box .wrap { padding-left:0; }
+.camp-info-box .white-box .wrap > .img-cont { margin: 0 auto 10px; float:none; display:block; }
+.camp-info-box .option-list li { font-size:12px; }
+.camp-info-box .option-list li .op-tl > i { line-height:17px; }
+.camp-info-box .text-cont .btn-primary { display:block; text-align:center;}
+.camp-info-box .text-cont .btn-primary + .btn-primary { margin:10px 0 0 0;  }
+.content .table-display, 
+.content .table-display > li { display:inline-block; width:100%; list-style:none; }
+.content .table-display > li + li {  margin-top:15px; }
+.content .table-display > li > div { width:100% !important; max-width:50% !important; float:left; display:block; padding: 10px; }
+.content .table-display > li > div.pack-name { width:100%; max-width:none !important; float:none; display:block; padding: 10px; }
+.itinerary .row-style li { width:100%;border-bottom:1px solid #dbd6d4; padding:7px 0;}
+.itinerary .row-style { border-bottom:none;}
+.itinerary .row-style li span { display:inline;}
+.itinerary .row-style li span { display: block;}
+.itinerary .row-style li:first-child { text-align:center; padding-right: 0px;font-size: 19px;}
+.itinerary .row-style li:first-child + li {border-right:none;border-bottom:1px solid #dbd6d4;padding:7px 0; border-left:none; }
+.itinerary .row-style li span { display: inline-block;}
+.itinerary .row-style li .price { padding-left:10px;}
+.common-tbl-column { padding-left:125px; }
+.common-tbl-column:before{ max-width:120px; line-height:20px; }
+
+
+.filter-typ-center.filter-by-sec .inline-block label { width:100%; display:block; text-align:left;}
+.filter-typ-center.filter-by-sec .inline-block .styled-select { width:100%; display:block; max-width:none; }
+.bk-pop-cont.default-form.md .form-group .form-rt { max-width:100%; }
+
+.press-list .press-opt > a.btn-primary{ font-size:10px;}
+.press-list .news-content h3{font-size: 1.2em;}
+.press-list .news-content i{ font-size:11px;}
+.flexslider figcaption span{ font-size:15px;}
+
+
+/*24-11-2015*/
+
+.day-list .hornbill-itinerary .day span + span { display: none; }
+.hornbill-itinerary .itinerary-container ul.itinerary li { padding: 0px 0px 0px 10px; }
+.hornbill-itinerary .itinerary-container ul.itinerary li .time { width: 100%; padding: 5px 0 0 2px; display: block; position: static;}
+
+
+.camps-box-wrapepr img { display: none }
+.camps-box-wrapepr > div { padding-bottom: 40px; }
+.camps-box-wrapepr .dest-name { display: inline-block; }
+.camps-box-wrapepr .dest-name:before { content: ""; }
+    
+/* 10-08-16 */
+.camps-box-wrapepr > [class^="col"] { width: 100%; text-align: center;}
+.flexslider.full-banner figcaption h4,
+.inner.flexslider.full-banner figcaption h4 { font-size: 1.5em; }
+.flexslider.full-banner figcaption span,
+.book-widget { position: relative; width: 100%;top: auto !important; left: auto !important; right: auto !important;}
+.book-widget h3 { width: auto; border-radius: 0;}
+.book-widget > .boxIn {  width: 100%; }
+/* 10-08-16 */
+.camps-box-wrapepr.option2 .camp-block{display: block; margin-bottom: 10px}
+	
+.itnry-com-row .tab-desc {padding: 0px 20px; }	
+	
+}
+
+@media screen and (max-width:320px) {
+.brochure-box .content, 
+.brochure-box .img-container {float: none; padding-left:0px; width:100%;}
+
+/*9-12-2015*/
+
+.list-type-03 li figure,
+.list-type-03 li .content { width: 100%; }
+.list-type-03 li .content { margin-top: 20px; padding-top: 10px; border-top: 1px solid #e0c6af; }
+}
+
+@media screen and (min-width:480px) {
+.default-form.md .form-group .form-rt.offset-control-label{padding-left:35%}
+}
+
+@media screen and (min-width:601px) {
+.default-form.md .form-group .form-rt.offset-control-label{padding-left:25%}
+}
+
+
+
+@media screen and (max-width:767px) {
+.site-map ul li{width:50%}
+.site-map ul li + li{width:50%;}
+.site-map ul li + li div > a, .site-map ul li + li > h3 {width:100%}
+}
+@media screen and (max-width:479px) {
+.site-map ul li{width:100%; border:none}
+.site-map ul li + li{width:100%; padding-left:0px}
+/*.factsheet li a{display:block; float:none; margin-top:5px}*/
+}
+
+@media screen and (max-width:999px) {
+.dropdown-menu .menu-img{width: 26%; float: left;}
+.dropdown-menu .menu-pack{width: 74%; float: right;}
+}
+
+
+
+.experience-head{overflow: hidden;}
+.experience-head li{display: inline-block; margin: 0; list-style: none; width:auto; padding:0; padding-top: 0; position: relative; float: left;font-size: 1.1em;}
+.experience-head li a{ display:block; padding: 8px 12px 11px; line-height:18px; text-decoration:none; color: #e40800; font-size:14px; border: 1px solid transparent; border-radius: 5px; background: #e8e8e8; border:1px solid #ccc}
+.experience-head li a.active {color: #000;background: #ffffff;border: 1px solid #cecece;border-radius: 5px;}
+.experience-content{padding-top:15px}
+.experience-content li{list-style: none;}
+
+
+
+@media print {
+  a[href]:after {
+    content: none !important;
+  }
+}
+
